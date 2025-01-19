@@ -1,6 +1,4 @@
 # DataSpark-Illuminating-Insights-for-Global-Electronics
-# Guvi Project_2
-## DataSpark: Illuminating Insights for Global Electronics
 
 ### INTRODUCTION
 As a member of Global Electronics' data analytics team, I was tasked with conducting a comprehensive Exploratory Data Analysis (EDA) to uncover valuable insights from our company's data. The goal was to provide
